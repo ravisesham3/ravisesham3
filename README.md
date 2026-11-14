@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5C3EE8&height=200&section=header&text=Ravindra%20Babu%20Sesham&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20Azure%20Administrator%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0078D4,50:3A4FD7,100:5C3EE8&height=240&section=header&text=Ravindra%20Babu%20Sesham&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20Engineer%20%7C%20Azure%20Administrator%20%7C%20DevOps%20Enthusiast&descAlignY=62&descSize=16" alt="header" />
 
 <a href="https://ravisesham3.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ravindra+%F0%9F%91%8B;Azure+Cloud+%7C+DevOps+%7C+Cloud+Infrastructure;Automating+deployments+with+CI%2FCD+%26+IaC;Building+real-world+cloud+projects+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ravindra+%F0%9F%91%8B;Azure+Cloud+%7C+DevOps+%7C+Cloud+Infrastructure;Automating+deployments+with+CI%2FCD+%26+IaC;Building+real-world+cloud+projects+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravisesham3&label=Profile%20views&color=0078D4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ravisesham3?style=for-the-badge&logo=github&color=5C3EE8)
+![Location](https://img.shields.io/badge/Darsi%2C%20Andhra%20Pradesh-India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
 
@@ -25,32 +27,29 @@
 - 📍 Darsi, Andhra Pradesh, India
 - 🌐 Portfolio: [ravisesham3.github.io](https://ravisesham3.github.io)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 🛠️ Languages & Tools
 
+<div align="center">
+
 ### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,github,githubactions,maven&perline=9" alt="cloud and devops icons" />
-  <img src="https://cdn.simpleicons.org/azuredevops/0078D4" width="48" height="48" alt="Azure DevOps" title="Azure DevOps" />
-</p>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,github,githubactions,maven&perline=9" alt="cloud and devops icons" /><img src="assets/azure-devops.svg" width="48" height="48" alt="Azure DevOps" title="Azure DevOps" />
 
 ### 🔧 Scripting, OS & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows&perline=5" alt="scripting and OS icons" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows&perline=5" alt="scripting and OS icons" />
 
 ### 🤖 AI / ML & Hardware
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,arduino&perline=2" alt="AI and hardware icons" />
-</p>
+<img src="https://skillicons.dev/icons?i=opencv,arduino&perline=2" alt="AI and hardware icons" />
+
+</div>
 
 **Azure services I work with:** Virtual Machines • VNets & Subnets • NSGs • Storage Accounts • Azure SQL • App Service • Load Balancer • AKS • Key Vault • RBAC • Azure Monitor • Log Analytics • Application Insights • ARM Templates • Azure CLI
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 💼 Internship Experience
 
@@ -65,7 +64,7 @@
 - ☸️ Deployed workloads to Azure Kubernetes Service (AKS).
 - 🧩 Practiced troubleshooting, deployment automation, branching strategies and Agile collaboration.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 📌 Featured Projects
 
@@ -76,26 +75,34 @@
 | 📡 **Ultrasonic Radar** | Arduino-based obstacle detection and distance measurement |
 | 💬 **Telegram AI Bot** | NLP-based bot using Hugging Face models |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
-## 📜 Certifications
+## 🎓 Education & Certifications
+
+**B.Tech – Computer Science & Engineering** · Dhanekula Institute of Engineering & Technology · 2022 – 2026
 
 - 🔄 Azure Administrator (AZ-104) – *In Progress*
 - ✅ DevOps Foundation Certification
 - ✅ Prompt Engineering Certificate
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravisesham3&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisesham3&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravisesham3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisesham3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisesham3&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ravisesham3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravisesham3&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="activity graph" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 📫 Connect With Me
 
@@ -109,6 +116,6 @@
 
 ⭐ *"Passionate about cloud infrastructure, DevOps automation, and solving real-world problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:0078D4&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,50:3A4FD7,100:0078D4&height=120&section=footer" alt="footer" />
 
 </div>
