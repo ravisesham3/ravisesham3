@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,55:10B981,100:F59E0B&height=260&section=header&text=Ravindra%20Babu%20Sesham&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20Engineer%20%E2%80%A2%20Azure%20Administrator%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:06B6D4&height=260&section=header&text=Ravindra%20Babu%20Sesham&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20Engineer%20%E2%80%A2%20Azure%20Administrator%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://ravisesham3.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=34D399&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Azure+Cloud+%7C+DevOps+%7C+Cloud+Infrastructure;Automating+deployments+with+CI%2FCD+%26+IaC;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Azure+DevOps;Building+real-world+cloud+projects" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Azure+Cloud+%7C+DevOps+%7C+Cloud+Infrastructure;Automating+deployments+with+CI%2FCD+%26+IaC;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Azure+DevOps;Building+real-world+cloud+projects" alt="typing" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravisesham3&label=Profile%20views&color=10B981&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ravisesham3?style=for-the-badge&logo=github&color=0F766E)
-![AZ-104](https://img.shields.io/badge/AZ--104-In%20Progress-F59E0B?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Open to work](https://img.shields.io/badge/Open%20to-Work-10B981?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ravisesham3&label=Profile%20views&color=0EA5E9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ravisesham3?style=for-the-badge&logo=github&color=1E40AF)
+![AZ-104](https://img.shields.io/badge/AZ--104-In%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-Work-06B6D4?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-babu-sesham-058035304/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravisesham3.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravisesham3.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindrasesham4@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 👋 About Me
 
@@ -51,14 +51,14 @@ open_to:   Cloud / DevOps Engineer roles
 
 <div align="center">
 
-![Internship](https://img.shields.io/badge/Internship-6%20Months-10B981?style=for-the-badge)
+![Internship](https://img.shields.io/badge/Internship-6%20Months-0EA5E9?style=for-the-badge)
 ![Azure Services](https://img.shields.io/badge/Azure%20Services-15%2B-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-4-F59E0B?style=for-the-badge)
-![AZ-104](https://img.shields.io/badge/AZ--104-In%20Progress-2DD4BF?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-4-6366F1?style=for-the-badge)
+![AZ-104](https://img.shields.io/badge/AZ--104-In%20Progress-38BDF8?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -95,12 +95,12 @@ open_to:   Cloud / DevOps Engineer roles
 | Storage & Blob | | | | DevOps YAML |
 | Azure SQL | | | | |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 🔁 How I Ship
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#064E3B','primaryTextColor':'#ffffff','primaryBorderColor':'#10B981','lineColor':'#34D399','fontSize':'14px'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1E3A8A','primaryTextColor':'#ffffff','primaryBorderColor':'#38BDF8','lineColor':'#38BDF8','fontSize':'14px'}}}%%
 flowchart LR
     A[Git] --> B[Maven Build]
     B --> C[Azure Pipeline]
@@ -110,7 +110,7 @@ flowchart LR
     E --> G[Azure Monitor]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 💼 Experience
 
@@ -139,7 +139,7 @@ Kloudsavvy Solutions Pvt Ltd
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 📌 Featured Projects
 
@@ -188,7 +188,7 @@ NLP-based bot using Hugging Face models.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 🎓 Education, Certifications & Learning
 
@@ -225,17 +225,17 @@ Dhanekula Institute of Engineering & Technology
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ravisesham3&hide_border=true&background=0D1117&ring=10B981&fire=F59E0B&currStreakNum=FFFFFF&sideNums=34D399&currStreakLabel=34D399&sideLabels=A1A1AA&dates=71717A&stroke=2C2C33" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=ravisesham3&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=A1A1AA&dates=71717A&stroke=2C2C33" alt="GitHub streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,0&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:6366F1&height=2&section=header" width="100%" alt="" />
 
 <div align="center">
 
@@ -244,13 +244,13 @@ Dhanekula Institute of Engineering & Technology
 I'm open to **Cloud Engineer, Azure and DevOps** opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-babu-sesham-058035304/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravisesham3.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravisesham3.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindrasesham4@gmail.com)
 
 <br/>
 
 ⭐ *"Passionate about cloud infrastructure, DevOps automation, and solving real-world problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,45:10B981,100:064E3B&height=130&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B1220&height=130&section=footer" width="100%" alt="footer" />
 
 </div>
